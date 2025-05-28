@@ -67,7 +67,7 @@ const listings = [
 ]
 
 
-const page = () => {
+const Page = () => {
     const [showCard, setShowCard] = React.useState(false);
     const [type, setType] = React.useState('');
 
@@ -193,4 +193,4 @@ const page = () => {
     )
 }
 
-export default page
+export default Page

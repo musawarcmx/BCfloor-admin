@@ -11,7 +11,6 @@ import { Button } from "@/components/ui/button"
 import { MoreHorizontal, AlertTriangle, X } from "lucide-react"
 import {
   AlertDialog,
-  AlertDialogTrigger,
   AlertDialogContent,
   AlertDialogHeader,
   AlertDialogFooter,
